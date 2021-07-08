@@ -11,7 +11,7 @@
 <!--  -->
 [![C/C++](https://img.shields.io/badge/C/C++-✓-brightgreen.svg?style=flat&logo=C&labelColor=black)](https://www.programiz.com/c-programming)
 <!--  -->
-[![Linux/UNIX](https://img.shields.io/badge/Linux/UNIX-✓-brightgreen.svg?style=flat&logo=linux&labelColor=black)](https://linuxfoundation.org/)
+[![Linux/UNIX](https://img.shields.io/badge/Gnu/Linux-✓-brightgreen.svg?style=flat&logo=linux&labelColor=black)](https://linuxfoundation.org/)
 <!--  -->
 [![Shell Script](https://img.shields.io/badge/ShellScript-✓-brightgreen.svg?style=flat&logo=shell&labelColor=black)](https://www.shellscript.sh/)
 <!--  -->
