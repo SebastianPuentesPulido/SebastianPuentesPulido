@@ -19,6 +19,8 @@
 [![PostgreSQL](https://img.shields.io/badge/PosgreSQL-✓-brightgreen.svg?style=flat&logo=PostgreSQL&labelColor=black)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-✓-brightgreen.svg?style=flat&logo=MongoDB&labelColor=black)](https://mongodb.com)
 [![MSSQL](https://img.shields.io/badge/MsSQL-✓-brightgreen.svg?style=flat&logo=MicrosoftSQLServer&labelColor=black)](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+
+![](https://github-readme-stats.vercel.app/api?username=SebastianPuentesPulido&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=#81ecec&icon_color=#81ecec&text_color=a29bfe&bg_color=#a29bfe,130F40%22)
 ***
 
 # **Contact Me In:** :telephone_receiver:  :telephone:
