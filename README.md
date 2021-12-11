@@ -27,6 +27,3 @@
 - ## **[Twitter](https://twitter.com/puentes_pulido)** :dove:
 - ## **[Facebook](https://www.facebook.com/sebastian.puentespulido/)** :man_technologist:
 - ## **Email(puentespulidojohansebastian@gmail.com)** :vibration_mode:
-- ## **Discord(puentes2511#2970)** :clipboard:
-- ## **[Instagram(quiet)](https://www.instagram.com/sebastianpuentespulido/)** :camera_flash:
-
